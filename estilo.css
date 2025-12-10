@@ -491,6 +491,14 @@ main h2::after{
     color:#000; 
 }
 
+.skill.angular{
+    background: #dd0031; /* rojo Angular */
+}
+
+.skill.ionic{
+    background: #3880ff; /* azul Ionic */
+}
+
 .trabajos{
     background-color: #ebf4f7;
     height: auto;
